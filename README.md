@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Asomugha John Kenenna - [Github](https://github.com/Jakmike)
-Ijeoma Obialor G. - [Github](https://github.com/Igraziella)
+Aniekeme Umoren - [Github](https://github.com/Aniekeme1)
 
 Second part of Airbnb: Joann Vuong
 ## License
